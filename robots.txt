@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neolabs-clientes.github.io/vida-bandida/sitemap.xml
